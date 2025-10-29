@@ -1,8 +1,8 @@
 {
   "version": "6.2.6",
   "changelog": [
-    "Se mejoró la estabilidad general del sistema.",
-    "Optimización del tiempo de carga en el inicio.",
+    "Se mejoró la estabilidad de las actualizaciones detectadas.",
+    "Optimización de registro de consolidados bimestral (primaria).",
     "Corrección del error al autenticarse sin conexión.",
     "Se agregó soporte para validación avanzada de usuarios."
   ],
