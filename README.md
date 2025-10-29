@@ -61,6 +61,32 @@ No. EVA está diseñado para funcionar desde Excel, aunque algunas funciones ava
 ### ¿Puede usarse en otras instituciones?
 No, por ahora está diseñada para ser usada de manera personal, lo que implica que para usarla en otra IE se tiene que hacer configuraciones manuales para que los archivos y datos sean acceibles solo por miembros de la IE. Sin embargo EVA es adaptable a diferentes contextos educativos po rlo que en el futuro se adaptará para que los mismos docentes puedan configurar lo que or ahora es manual. Solo es necesario ajustar la estructura de carpetas y parámetros de configuración.
 
+### 🌐 Configuración de GitHub Pages
+
+EVA utiliza GitHub Pages para alojar de forma pública y estable el archivo version.json, que permite verificar las actualizaciones del aplicativo sin riesgo de bloqueos o límites de consulta.
+
+🔧 Pasos de configuración
+
+Ingrese al repositorio de EVA en GitHub (https://github.com/Timer93/EVA).
+Diríjase a Settings → Pages.
+En la sección Build and deployment, seleccione:
+Source: Deploy from a branch
+Branch: main
+Folder: / (root)
+Guarde los cambios con Save.
+
+GitHub activará automáticamente la página del proyecto en la siguiente dirección:
+https://timer93.github.io/EVA/
+
+Desde ese momento, cualquier archivo en la raíz del repositorio será accesible públicamente, por ejemplo:
+https://timer93.github.io/EVA/version.json
+https://timer93.github.io/EVA/manual.pdf
+
+💡 Importancia
+Esta configuración permite que la macro en Excel (VBA) consulte el archivo version.json desde una URL fija y accesible públicamente, evitando los bloqueos que pueden ocurrir al usar directamente los enlaces de raw.githubusercontent.com.
+
+En palabras simples, GitHub Pages “publica” el repositorio como si fuera un sitio web, de modo que otros sistemas —como EVA— puedan leer la información sin restricciones.
+
 ## 🤝 Créditos y agradecimientos
 
 Desarrollado por el **Profesor Horna Quispe Kevin Arnold**  
