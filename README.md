@@ -82,7 +82,7 @@ Desde ese momento, cualquier archivo en la raíz del repositorio será accesible
 - https://timer93.github.io/EVA/version.json
 - https://timer93.github.io/EVA/manual.pdf
 
-##💡 Importancia
+### 💡 Importancia
 Esta configuración permite que la macro en Excel (VBA) consulte el archivo version.json desde una URL fija y accesible públicamente, evitando los bloqueos que pueden ocurrir al usar directamente los enlaces de raw.githubusercontent.com.
 
 En palabras simples, GitHub Pages “publica” el repositorio como si fuera un sitio web, de modo que otros sistemas —como EVA— puedan leer la información sin restricciones.
