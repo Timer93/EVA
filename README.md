@@ -68,21 +68,21 @@ EVA utiliza GitHub Pages para alojar de forma pública y estable el archivo vers
 🔧 Pasos de configuración
 
 Ingrese al repositorio de EVA en GitHub (https://github.com/Timer93/EVA).
-Diríjase a Settings → Pages.
-En la sección Build and deployment, seleccione:
-Source: Deploy from a branch
-Branch: main
-Folder: / (root)
-Guarde los cambios con Save.
+1. Diríjase a Settings → Pages.
+2. En la sección Build and deployment, seleccione:
+  - Source: Deploy from a branch
+  - Branch: main
+  - Folder: / (root)
+3. Guarde los cambios con Save.
 
 GitHub activará automáticamente la página del proyecto en la siguiente dirección:
 https://timer93.github.io/EVA/
 
 Desde ese momento, cualquier archivo en la raíz del repositorio será accesible públicamente, por ejemplo:
-https://timer93.github.io/EVA/version.json
-https://timer93.github.io/EVA/manual.pdf
+- https://timer93.github.io/EVA/version.json
+- https://timer93.github.io/EVA/manual.pdf
 
-💡 Importancia
+##💡 Importancia
 Esta configuración permite que la macro en Excel (VBA) consulte el archivo version.json desde una URL fija y accesible públicamente, evitando los bloqueos que pueden ocurrir al usar directamente los enlaces de raw.githubusercontent.com.
 
 En palabras simples, GitHub Pages “publica” el repositorio como si fuera un sitio web, de modo que otros sistemas —como EVA— puedan leer la información sin restricciones.
