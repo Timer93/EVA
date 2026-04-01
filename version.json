@@ -1,12 +1,12 @@
 {
-  "version": "6.2.8",
-  "releaseName": "EVA 6.2.8",
+  "version": "6.2.9",
+  "releaseName": "EVA 6.2.9",
   "publishedAt": "2026-03-29",
   "assetName": "EVA_Setup.exe",
   "downloadUrl": "https://github.com/Timer93/EVA/releases/download/Paquete_Instalador/EVA_Setup.exe",
   "changelog": [
-    "Nueva versión de EVA en aplicación web y escritorio, reemplazando el flujo anterior en Excel.",
-    "Se incorporó el apartado Metas de Aprendizaje con guardado local y en la nube.",
+    "Nueva versión de EVA en aplicación web y escritorio.",
+    "Se incorporó el apartado Metas de Aprendizaje con guardado local y en la nube. (Actualizado)",
     "Se incorporó el apartado Reporte Docente para el seguimiento de archivos subidos.",
     "El apartado Archivos fue reorganizado para Primaria y Secundaria sin afectar el flujo ya operativo.",
     "La subida de archivos ahora valida duplicados antes de enviar y registra los datos correctos según el tipo de documento.",
@@ -20,12 +20,12 @@
     "Se unificó y mejoró la vista de impresión de Metas con encabezado, pie de página y mejor paginación.",
     "Se mejoró la vista de impresión de Evaluación Diagnóstica en Calificativos, tanto en vertical como en horizontal.",
     "La aplicación ahora puede consultar actualizaciones automáticamente al abrir y también de forma manual.",
-    "El sistema de actualización fue optimizado para consultar un version.json liviano y evitar bloqueos por exceso de consultas."
+    "Problema de agupación de secciones en secundaria corregido. (Actualizado)"
   ],
   "history": [
     {
-      "version": "6.2.8",
-      "releaseName": "EVA 6.2.8",
+      "version": "6.2.9",
+      "releaseName": "EVA 6.2.9",
       "publishedAt": "2026-03-29",
       "changelog": [
         "Migración funcional consolidada hacia aplicación web y escritorio.",
