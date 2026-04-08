@@ -1,5 +1,5 @@
 {
-  "version": "6.3.4",
+  "version": "6.3.5",
   "releaseName": "EVA 6.3.5",
   "publishedAt": "2026-03-29",
   "assetName": "EVA_Setup.exe",
@@ -25,7 +25,7 @@
   ],
   "history": [
     {
-      "version": "6.3.4",
+      "version": "6.3.5",
       "releaseName": "EVA 6.3.5",
       "publishedAt": "2026-03-29",
       "changelog": [
