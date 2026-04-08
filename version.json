@@ -13,13 +13,14 @@
     "Se corrigió el nombrado automático de archivos académicos según área, grado, sección, bimestre, unidad, sesión, día o mes.",
     "Primaria ahora tiene reglas específicas para Programación Anual, Unidad de Aprendizaje, Sesión de Aprendizaje y Evaluación Diagnóstica.",
     "La Sesión de Aprendizaje en Primaria ahora diferencia semanas correctamente para evitar duplicados incorrectos.",
-    "La Evaluación Diagnóstica por área en Primaria ahora guarda correctamente el área seleccionada.",
+    "La Evaluación Diagnóstica por área en Primaria ahora guarda correctamente el área seleccionada. (Actualizado)",
     "Se corrigió la carga de competencias de Arte y Cultura en Primaria en Evaluación Diagnóstica, Metas y Consolidado IE.",
     "Se separó la configuración de URLs para Diagnóstica y Consolidado en Primaria y Secundaria desde la hoja Administrador.",
     "Se mejoró el login de escritorio con diseño hexagonal ajustado y renderizado estable dentro del ejecutable.",
     "Se unificó y mejoró la vista de impresión de Metas con encabezado, pie de página y mejor paginación.",
     "Se mejoró la vista de impresión de Evaluación Diagnóstica en Calificativos, tanto en vertical como en horizontal.",
-    "La aplicación ahora puede consultar actualizaciones automáticamente al abrir y también de forma manual.",
+    "La aplicación ahora puede consultar actualizaciones automáticamente al abrir y también de forma manual. (Actualizado)",
+    "La aplicación ahora puede instalar actualizaciones en modo silencioso. (Actualizado)",
     "Problema de agupación de secciones en secundaria corregido. (Actualizado)"
   ],
   "history": [
