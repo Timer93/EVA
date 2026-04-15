@@ -1,6 +1,6 @@
 {
-  "version": "6.3.9",
-  "releaseName": "EVA 6.3.9",
+  "version": "6.4.0",
+  "releaseName": "EVA 6.4.0",
   "publishedAt": "2026-03-29",
   "assetName": "EVA_Setup.exe",
   "downloadUrl": "https://github.com/Timer93/EVA/releases/download/Paquete_Instalador/EVA_Setup.exe",
@@ -25,8 +25,8 @@
   ],
   "history": [
     {
-      "version": "6.3.9",
-      "releaseName": "EVA 6.3.9",
+      "version": "6.4.0",
+      "releaseName": "EVA 6.4.0",
       "publishedAt": "2026-03-29",
       "changelog": [
         "Migración funcional consolidada hacia aplicación web y escritorio.",
