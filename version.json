@@ -3,7 +3,7 @@
   "releaseName": "EVA 6.4.1",
   "publishedAt": "2026-03-29",
   "assetName": "EVA_Setup.exe",
-  "downloadUrl": "https://github.com/Timer93/EVA/releases/download/Paquete_Instalador/EVA_Setup.exe",
+  "downloadUrl": "https://github.com/Timer93/EVA/releases/download/Armi_Docente_2026/EVA_Setup.exe",
   "changelog": [
     "Nueva versión de EVA en aplicación web y escritorio.",
     "Apartado Metas de Aprendizaje con guardado local y en la nube (error presente en tutores corregido).",
