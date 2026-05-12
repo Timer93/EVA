@@ -1,6 +1,6 @@
 {
-  "version": "6.4.1",
-  "releaseName": "EVA 6.4.1",
+  "version": "6.4.4",
+  "releaseName": "EVA 6.4.4",
   "publishedAt": "2026-03-29",
   "assetName": "EVA_Setup.exe",
   "downloadUrl": "https://github.com/Timer93/EVA/releases/download/Paquete_Instalador/EVA_Setup.exe",
@@ -8,6 +8,8 @@
     "Nueva versión de EVA en aplicación web y escritorio.",
     "Apartado Metas de Aprendizaje con guardado local y en la nube (error presente en tutores corregido).",
     "Apartado Reporte Docente para el seguimiento de archivos subidos (Actualizado).",
+    "Módulo Consolidado IE activado, parra llenado de notas bimestrales.",
+    "Nuevo apartado Consulta para tutore/as, relacionado a competencias transversales.",
     "El apartado Archivos fue reorganizado para Primaria y Secundaria.",
     "La subida de archivos ahora valida duplicados antes de enviar y registra los datos correctos según el tipo de documento.",
     "Se corrigió el nombrado automático de archivos académicos según área, grado, sección, bimestre, unidad, sesión, día o mes.",
@@ -25,8 +27,8 @@
   ],
   "history": [
     {
-      "version": "6.4.1",
-      "releaseName": "EVA 6.4.1",
+      "version": "6.4.4",
+      "releaseName": "EVA 6.4.4",
       "publishedAt": "2026-03-29",
       "changelog": [
         "Migración funcional consolidada hacia aplicación web y escritorio.",
