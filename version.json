@@ -1,29 +1,15 @@
 {
-  "version": "6.6.1",
-  "releaseName": "EVA 6.6.1",
-  "publishedAt": "2026-03-29",
+  "version": "6.7.0",
+  "releaseName": "EVA 6.7.0",
+  "publishedAt": "2026-10-23",
   "assetName": "EVA_Setup.exe",
   "downloadUrl": "https://github.com/Timer93/EVA/releases/download/Paquete_Instalador/EVA_Setup.exe",
   "changelog": [
-    "Nueva versión de EVA en aplicación web y escritorio.",
-    "Apartado Metas de Aprendizaje con guardado local y en la nube (error presente en tutores corregido).",
-    "Apartado Reporte Docente para el seguimiento de archivos subidos (Actualizado).",
-    "Módulo Consolidado IE activado, parra llenado de notas bimestrales.",
-    "Nuevo apartado Consulta para tutore/as, relacionado a competencias transversales.",
-    "El apartado Archivos fue reorganizado para Primaria y Secundaria.",
-    "La subida de archivos ahora valida duplicados antes de enviar y registra los datos correctos según el tipo de documento.",
-    "Se corrigió el nombrado automático de archivos académicos según área, grado, sección, bimestre, unidad, sesión, día o mes.",
-    "Primaria ahora tiene reglas específicas para Programación Anual, Unidad de Aprendizaje, Sesión de Aprendizaje y Evaluación Diagnóstica.",
-    "La Sesión de Aprendizaje en Primaria diferencia semanas correctamente para evitar duplicados incorrectos.",
-    "La Evaluación Diagnóstica por área en Primaria ahora guarda correctamente el área seleccionada. (Actualizado)",
-    "Se corrigió la carga de competencias en Primaria en Evaluación Diagnóstica, Metas y Consolidado IE.",
-    "Se separó la configuración de URLs para Diagnóstica y Consolidado en Primaria y Secundaria desde la hoja Administrador.",
-    "Se mejoró el login de escritorio con diseño hexagonal ajustado y renderizado estable dentro del ejecutable.",
-    "Se unificó y mejoró la vista de impresión de Metas con encabezado, pie de página y mejor paginación.",
-    "Se mejoró la vista de impresión de Evaluación Diagnóstica en Calificativos, tanto en vertical como en horizontal.",
-    "La aplicación ahora puede consultar actualizaciones automáticamente al abrir y también de forma manual. (Actualizado)",
-    "La aplicación ahora puede instalar actualizaciones en modo silencioso. (Actualizado)",
-    "Problema de agupación de secciones en secundaria (corregido). "
+    "Calificaciones asociadas a identificadores permanentes de matrícula en las nuevas hojas.",
+    "Corrección del envío completo de competencias transversales.",
+    "Conservación de notas locales al cerrar sesión y recuperación compatible con registros antiguos.",
+    "Filas de estudiantes retirados deshabilitadas y conclusión Retirad@.",
+    "Acceso docente con DNI y actualización del servicio de registro de calificaciones."
   ],
   "history": [
     {
@@ -48,5 +34,6 @@
         "Se agregó soporte para validación avanzada de usuarios."
       ]
     }
-  ]
+  ],
+  "sha256": "e3ad9bb5192ce1d5cd148b00a7b79b9e04c6b926d953860b259978487515d930"
 }
